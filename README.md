@@ -1,2 +1,2 @@
 # Exercicios-Algoritmos
- Exercícios de algortimos, desenvolvidos em portugol studio
+ Exercícios de algoritmos, desenvolvidos em portugol studio...
